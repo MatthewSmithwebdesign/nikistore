@@ -1,0 +1,52 @@
+body{
+	background: url("https://i.imgur.com/LiA7oUk.jpg");
+	background-position: right;
+	background-size: 40%;
+	background-repeat: no-repeat;
+	background-color:green;
+	font-family: 'Nixie One', cursive;
+	font-weight: 700;
+
+	
+
+
+}
+
+html{
+	height: 100%
+
+
+
+}
+
+#content {
+	text-align: left;
+	text-shadow: 0px 4px 3px rgba(0,0,0.4),
+	             0px 8px 13px rgba(0,0,0.1),
+	             0px 18px 23px rgba(0,0,0.1);
+
+}
+
+.mission {
+	padding-top: 20px;
+	color: #ead42a;
+	font-size: 30px
+}
+p {
+	text-align: left;
+	padding-right:500px; 
+	color:#ead42a;
+	font-size: 20px;
+
+
+}
+h1 {
+	color:#ead42a;
+	font-size: 40px;
+
+}
+.border{
+	border-left: 125px solid rgb(216, 34, 28);
+	padding-right: 50px;
+	margin-left: 50px
+	}
